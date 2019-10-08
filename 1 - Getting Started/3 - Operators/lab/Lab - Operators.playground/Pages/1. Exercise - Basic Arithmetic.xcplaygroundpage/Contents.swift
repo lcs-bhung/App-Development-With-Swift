@@ -13,18 +13,20 @@ print (roomarea)
 /*:
  Create a `perimeter` constant whose value equals `width` plus `width` plus `height` plus `height`, then print out the result.
  */
-
-
+let perimeter = (width*2+height*2)
+print (perimeter)
 /*:
  Print what you would expect the result of integer division of 10 divided by 3 to be. Create a constant, `integerDivisionResult` that is the result of 10 divided by 3, and print the value.
  */
-
-
+let integerDivisionResult = 10/3
+print (integerDivisionResult)
 /*:
  Now create two constants, `double10` and `double3`, set to 10 and 3, and declare their types as `Double` values. Declare a final constant `divisionResult` equal to the result of `double10` divided by `double3`. Print the value of `divisionResult`. How does this differ from the value when using integer division?
  */
-
-
+let double10 = 10
+let double3 = 3
+let divisionResult = double10/double3
+print (divisionResult)
 /*:
  Given the value pi (3.1415927), create a `radius` constant with a value of 5.0, then calculate the diameter and circumference of the circle using the following equations, and print the results:
  
