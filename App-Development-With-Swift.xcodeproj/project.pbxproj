@@ -49,6 +49,7 @@
 		0EC42398233A634800FBCA00 /* Lab - Operators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Operators.playground"; sourceTree = "<group>"; };
 		0EC4239B233A634800FBCA00 /* Lab - Control Flow.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Control Flow.playground"; sourceTree = "<group>"; };
 		0EC4239E233A634800FBCA00 /* Lab - Introduction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Introduction.playground"; sourceTree = "<group>"; };
+		57B330BF237357A9006EB630 /* Lab - Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Strings.playground"; path = "../../../../Lab - Strings.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -172,6 +173,7 @@
 		0EC4233C233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				57B330BF237357A9006EB630 /* Lab - Strings.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";

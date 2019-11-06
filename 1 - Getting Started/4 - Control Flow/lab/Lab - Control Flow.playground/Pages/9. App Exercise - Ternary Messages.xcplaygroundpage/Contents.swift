@@ -7,6 +7,11 @@
  */
 let stepGoal = 10000
 let steps = 3948
+var howClose : Int
+
+howClose = steps > stepGoal / 2 ? steps : stepGoal
+
+print (howClose)
 
 if steps < stepGoal / 2 {
     print("Almost halfway!")
